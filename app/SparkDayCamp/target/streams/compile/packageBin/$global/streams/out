@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/danielca/repos/2.github/4.SparkDayCamp/app/SparkDayCamp/target/scala-2.11/sparkdaycamp_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	twinkle[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danielca/repos/2.github/4.SparkDayCamp/app/SparkDayCamp/target/scala-2.11/classes/twinkle[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/miami/wordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danielca/repos/2.github/4.SparkDayCamp/app/SparkDayCamp/target/scala-2.11/classes/data/miami/wordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/miami/wordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danielca/repos/2.github/4.SparkDayCamp/app/SparkDayCamp/target/scala-2.11/classes/data/miami/wordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/miami/wordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danielca/repos/2.github/4.SparkDayCamp/app/SparkDayCamp/target/scala-2.11/classes/data/miami/wordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/miami/wordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danielca/repos/2.github/4.SparkDayCamp/app/SparkDayCamp/target/scala-2.11/classes/data/miami/wordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	.DS_Store[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danielca/repos/2.github/4.SparkDayCamp/app/SparkDayCamp/target/scala-2.11/classes/.DS_Store[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/miami[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danielca/repos/2.github/4.SparkDayCamp/app/SparkDayCamp/target/scala-2.11/classes/data/miami[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danielca/repos/2.github/4.SparkDayCamp/app/SparkDayCamp/target/scala-2.11/classes/data[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
